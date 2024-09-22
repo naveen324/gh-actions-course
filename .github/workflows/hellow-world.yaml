@@ -19,3 +19,4 @@ jobs:
     #       - uses: actions/checkout@v2
             - name: goodbye
               run: ll -a
+              shell: bash
