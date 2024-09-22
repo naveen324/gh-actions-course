@@ -18,5 +18,5 @@ jobs:
         steps:
     #       - uses: actions/checkout@v2
             - name: goodbye
-              run: ll -a
+              run: ls -la
               shell: bash
